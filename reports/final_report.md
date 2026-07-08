@@ -15,6 +15,7 @@ The current simulation shows mechanical recycling with the lowest mean GHG impac
 ## Discussion
 
 Mechanical recycling performs best mainly because the model gives it a large credit for avoided virgin PET production. Energy recovery shows high uncertainty because its outcome depends strongly on combustion emissions and electricity displacement assumptions. These results should be treated as a first-pass estimate rather than a final literature benchmark.
+Inspecting the specific runs where mechanical recycling did not win shows this tends to happen when collection rate and the virgin PET emission factor are both pushed toward the lower end of their ranges, meaning recycling loses its advantage specifically when less material is actually collected and virgin production is relatively less carbon-intensive than usual, reducing the credit recycling can claim.
 
 ## Conclusion
 
